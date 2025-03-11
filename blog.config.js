@@ -62,7 +62,7 @@ const BLOG = {
   // 欢迎语打字效果,Hexo,Matery主题支持, 英文逗号隔开多个欢迎语。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    '人应该循环在怎样的时间里, 今天星期几,季节轮回的节点是什么,我有时候觉得自己应该清醒的追求不快乐的事情,有时候又觉得自由更胜一筹,也许有新的故事值得期待,也许没有也许',
+    '好似杂乱无章的音律,不成声地呐喊着,「真实的自我」又是为了让谁看见,愚昧无知的我唯有放声高歌,倾诉一切吧,对那星辰',
 
   // uuid重定向至 slug
   UUID_REDIRECT: process.env.UUID_REDIRECT || false
