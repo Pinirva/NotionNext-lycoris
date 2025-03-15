@@ -18,6 +18,8 @@ module.exports = {
   FONT_SANS: [
     // '"LXGW WenKai"',
     '-apple-system',
+    'HarmonyOS_Regular',
+    '"Microsoft YaHei"',
     '"PingFang SC"',
     '-apple-system',
     'BlinkMacSystemFont',
