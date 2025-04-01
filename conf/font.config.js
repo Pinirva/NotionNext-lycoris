@@ -20,7 +20,7 @@ module.exports = {
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     // '"LXGW WenKai"',
-    '"LxgwBright Code"',
+    '"LXGW Bright Code"',
     'Iosevka Web',
     'HarmonyOS_Regular',
     '-apple-system',
