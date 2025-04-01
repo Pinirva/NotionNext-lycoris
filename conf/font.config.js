@@ -11,7 +11,7 @@ module.exports = {
   FONT_URL: [
     // 'https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css',
     'https://iosevka-webfonts.github.io/iosevka/iosevka.css',
-    'https://cdn.jsdelivr.net/gh/tingjieguo/lxgw-bright-webfont/style.css',
+    'https://cdn.jsdelivr.net/npm/@chinese-fonts/lxgwwenkaibright@1.0.2/dist/LXGWBright-Medium/result.min.css',
     'https://cdn.jsdelivr.net/npm/@joshuasu/lxgwbright-code-web@latest/style.css',
     'https://fonts.googleapis.com/css?family=Bitter&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap',
@@ -20,7 +20,6 @@ module.exports = {
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
     // '"LXGW WenKai"',
-    '"LXGW Bright Code"',
     'Iosevka Web',
     'HarmonyOS_Regular',
     '-apple-system',
@@ -43,7 +42,8 @@ module.exports = {
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
     // '"LXGW WenKai"',
-    '"LXGW Bright"',
+    '"LXGW Bright Medium"',
+    '"LXGW Bright Code"',
     '"Times New Roman"',
     'Bitter',
     '"Noto Serif SC"',
