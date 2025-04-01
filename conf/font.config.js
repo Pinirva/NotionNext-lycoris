@@ -12,6 +12,7 @@ module.exports = {
     // 'https://npm.elemecdn.com/lxgw-wenkai-webfont@1.6.0/style.css',
     'https://iosevka-webfonts.github.io/iosevka/iosevka.css',
     'https://cdn.jsdelivr.net/gh/tingjieguo/lxgw-bright-webfont/style.css',
+    'https://cdn.jsdelivr.net/npm/@joshuasu/lxgwbright-code-web@latest/style.css',
     'https://fonts.googleapis.com/css?family=Bitter&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300&display=swap'
