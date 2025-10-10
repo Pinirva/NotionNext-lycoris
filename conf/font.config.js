@@ -13,7 +13,8 @@ module.exports = {
     'https://fonts.googleapis.com/css?family=Bitter:300,400,700&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap',
     'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;500;700&display=swap',
-    'https://raw.githubusercontent.com/TingjieGuo/lxgw-bright-webfont/refs/heads/main/style.css'
+    'https://raw.githubusercontent.com/TingjieGuo/lxgw-bright-webfont/refs/heads/main/style.css',
+    'https://cdn.jsdelivr.net/gh/tingjieguo/lxgw-bright-webfont/style.css'
   ],
 
   // 字体优化配置
@@ -44,6 +45,7 @@ module.exports = {
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
     // '"LXGW WenKai"',
+    '"LXGW Bright Medium"',
     'Bitter',
     '"Noto Serif SC"',
     'SimSun',
